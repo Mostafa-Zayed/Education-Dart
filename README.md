@@ -1,1 +1,1 @@
-# Dart ERP TEC MVC Project
+# Dart ERP TEC MVC Framework
