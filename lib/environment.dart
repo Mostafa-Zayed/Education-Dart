@@ -1,8 +1,12 @@
+/*
+* store app settings
+*/
 Map<String,dynamic> env = {
   'app_name': 'Erp Tec',
   'app_title': 'Erp Tec',
   'app_env': 'demo',
   'author': 'Mostafa Zayed',
+  'email': 'mostafa.zayed9990@gmail.com',
   'description': 'this is education system for education and teachers from Erp Tec System Company',
   'version': '1.0',
   'module': 'education',
@@ -16,9 +20,3 @@ Map<String,dynamic> env = {
   'api_prefix': 'api',
   'api_version': '1',
 };
-
-// app education
-// https://erptec.net/api/v2/education/packages
-
-// app pos
-// https://erptec.net/api/v3/pos/order/create
