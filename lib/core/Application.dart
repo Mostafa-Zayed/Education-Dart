@@ -1,6 +1,6 @@
 import 'Router.dart';
 import 'Configration.dart';
-import 'package:education/routes.dart';
+import '../config/routes.dart';
 class Application{
 
   Configration config;

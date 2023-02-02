@@ -1,9 +1,8 @@
-import 'package:education/environment.dart';
-import 'package:education/Configration.dart';
-import 'package:education/Application.dart';
-import 'package:education/routes.dart';
-import 'package:education/Router24.dart';
-import 'package:education/Router.dart';
+import '../lib//config/environment.dart';
+import '../lib/core/Configration.dart';
+import '../lib/core/Application.dart';
+import '../lib/config/routes.dart';
+import '../lib/core/Router.dart';
 // import 'package:education/Router.dart';
 void main(List<String> arguments) {
   
